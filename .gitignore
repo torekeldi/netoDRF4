@@ -1,0 +1,5 @@
+.idea/
+.venv/
+django_testing/__pycache__/
+students/__pycache__/
+tests/__pycache__/
